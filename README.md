@@ -33,6 +33,7 @@ In the api.js there are 2 querys that arent linked to anything, is because they 
 
 # Relational Model
 Just an image that is the map to make the sql database
+![MER_pd_David_Orjuela](https://github.com/user-attachments/assets/8d035fc9-9977-4d04-aeec-887b73459616)
 
 # Personal information
 Name: David
